@@ -1,6 +1,0 @@
-- Kaynak olarak göstermiş olduğunuz txt dosyasını daha rahat çalışabilmek adına excel formatlı bir dosyaya döndürdüm.
-- Key uzunlukları excel formülasyonu ile otomatik olarak hesaplanabildiğinden bu yöntemi kullandım. Bu sayede tamamen hazır bir veritabanı oluşturmuş oldum.
-- İki noktada eksiğim var bunlar:
-   1) Bir kelimede bulunan iki harfin sadece birini terminal ekranında görselleştirebiliyorum.
-   2) Kelimenin içinde var olan bir harf sürekli girildiğinde user her koşulda kazanıyor.
-Bu durumda harf kullanıldıktan sonra silinmeli.
